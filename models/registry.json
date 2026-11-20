@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "active_version": "v1.0.0",
+  "previous_active_version": null,
+  "versions": {
+    "v1.0.0": {
+      "version": "v1.0.0",
+      "artifact_path": "models/v1.0.0/modelo_polaridad.joblib",
+      "metadata_path": "models/v1.0.0/metadata.json",
+      "checksum_path": "models/v1.0.0/checksum.sha256",
+      "sha256": "31c8f9360020d8e5f2cdec1637c8cd5befd34360de655afde67fa3390f22523b",
+      "registered_at_utc": "2026-11-20T19:36:45.789412+00:00",
+      "status": "active",
+      "model_family": "LinearSVC",
+      "dataset_version": "1.0.0",
+      "macro_f1_cv_train": 0.9978,
+      "macro_f1_test": 0.981,
+      "accuracy_test": 0.9839,
+      "notes": "Entrenamiento reproducible basado en el trabajo parcial"
+    },
+    "v1.1.0": {
+      "version": "v1.1.0",
+      "artifact_path": "models/v1.1.0/modelo_polaridad.joblib",
+      "metadata_path": "models/v1.1.0/metadata.json",
+      "checksum_path": "models/v1.1.0/checksum.sha256",
+      "sha256": "1c6a56bfddf44dcfd4da89d965faf02bf412d754975256b540189b1120d9f562",
+      "registered_at_utc": "2026-11-20T19:37:06.266491+00:00",
+      "status": "staged",
+      "model_family": "LogisticRegression",
+      "dataset_version": "1.0.0",
+      "macro_f1_cv_train": 0.9905,
+      "macro_f1_test": 0.9905,
+      "accuracy_test": 0.9919,
+      "notes": "Modelo alternativo LogisticRegression listo para comparación y rollback"
+    }
+  },
+  "history": [
+    {
+      "action": "register_and_activate",
+      "version": "v1.0.0",
+      "previous_version": null,
+      "timestamp_utc": "2026-11-20T19:36:45.789412+00:00",
+      "notes": "Entrenamiento reproducible basado en el trabajo parcial"
+    },
+    {
+      "action": "register_staged",
+      "version": "v1.1.0",
+      "previous_version": "v1.0.0",
+      "timestamp_utc": "2026-11-20T19:37:06.266491+00:00",
+      "notes": "Modelo alternativo LogisticRegression listo para comparación y rollback"
+    }
+  ]
+}

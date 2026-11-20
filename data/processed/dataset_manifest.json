@@ -1,0 +1,31 @@
+{
+  "dataset_version": "1.0.0",
+  "dataset_sha256": "fe8bab9e356fa0bd40e629675315eaeb955aaf40adda0d9cf43f4e64384bc1c6",
+  "source_mode": "synthetic_parcial_replica",
+  "source_files": [
+    "synthetic_replica_from_Informe_Parcial_SisInt.pdf"
+  ],
+  "processed_path": "data\\processed\\feedback_preprocesado_etiquetado.csv",
+  "generated_at_utc": "2026-11-20T19:36:49.522429+00:00",
+  "n_rows": 618,
+  "class_distribution": {
+    "neutral": 258,
+    "negativo": 205,
+    "positivo": 155
+  },
+  "class_proportions": {
+    "neutral": 0.4175,
+    "negativo": 0.3317,
+    "positivo": 0.2508
+  },
+  "contrastive_ratio": 0.8317,
+  "courses": [
+    "Arquitectura del computador",
+    "Bases de datos",
+    "Fundamentos de programación",
+    "Programacion paralela",
+    "Sistemas Inteligentes",
+    "Sistemas distribuidos",
+    "Sistemas operativos"
+  ]
+}

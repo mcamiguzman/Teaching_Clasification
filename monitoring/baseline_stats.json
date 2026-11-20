@@ -1,0 +1,16 @@
+{
+  "model_version": "v1.0.0",
+  "dataset_version": "1.0.0",
+  "created_at_utc": "2026-11-20T19:36:45.796377+00:00",
+  "n_reference": 494,
+  "class_proportions": {
+    "negativo": 0.332,
+    "neutral": 0.417,
+    "positivo": 0.251
+  },
+  "char_length_mean": 262.9,
+  "char_length_std": 33.67,
+  "word_count_mean": 39.87,
+  "word_count_std": 5.55,
+  "contrastive_ratio": 0.8198
+}

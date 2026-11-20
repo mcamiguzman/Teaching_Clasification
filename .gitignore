@@ -1,0 +1,21 @@
+# Entornos virtuales y caché de Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Variables locales y secretos
+.env
+
+# Logs temporales de monitoreo local (conservar estructura)
+monitoring/predictions_log.jsonl
+
+# Archivos del sistema operativo / IDEs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

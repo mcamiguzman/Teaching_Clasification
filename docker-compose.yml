@@ -1,0 +1,39 @@
+# =============================================================================
+# [Parte 1.6 — Despliegue] Orquestación API FastAPI + Interfaz Streamlit
+# =============================================================================
+services:
+  api:
+    build: .
+    container_name: feedback-classifier-api
+    ports:
+      - "8000:8000"
+    environment:
+      - ADMIN_API_KEY=${ADMIN_API_KEY:-dev-secret-change-in-production}
+      - STRICT_VERSION_CHECK=${STRICT_VERSION_CHECK:-false}
+    volumes:
+      - ./models:/app/models
+      - ./monitoring:/app/monitoring
+    command: ["uvicorn", "api.main:app", "--host", "0.0.0.0", "--port", "8000"]
+    restart: unless-stopped
+
+  streamlit:
+    build: .
+    container_name: feedback-classifier-ui
+    depends_on:
+      - api
+    ports:
+      - "8501:8501"
+    environment:
+      - API_BASE_URL=http://api:8000
+    volumes:
+      - ./models:/app/models
+      - ./monitoring:/app/monitoring
+    command:
+      [
+        "streamlit",
+        "run",
+        "app/streamlit_app.py",
+        "--server.address=0.0.0.0",
+        "--server.port=8501",
+      ]
+    restart: unless-stopped

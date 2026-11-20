@@ -1,0 +1,281 @@
+{
+  "modelo": "LinearSVC",
+  "calibrado_con_CalibratedClassifierCV": true,
+  "pipeline_steps": [
+    "normalizer",
+    "vec",
+    "clf"
+  ],
+  "parametros": {
+    "clf": "LinearSVC(class_weight='balanced', random_state=42)",
+    "clf__C": "1",
+    "vec__analyzer": "word",
+    "vec__min_df": "1",
+    "vec__ngram_range": "(1, 2)"
+  },
+  "clases": [
+    "negativo",
+    "neutral",
+    "positivo"
+  ],
+  "n_train": 494,
+  "n_test": 124,
+  "metricas": {
+    "macro_f1_cv_train": 0.9978,
+    "macro_f1_test_uncalibrated": 0.981,
+    "accuracy_test_uncalibrated": 0.9839,
+    "macro_f1_test": 0.981,
+    "accuracy_test": 0.9839,
+    "precision_macro_test": 0.9845,
+    "recall_macro_test": 0.9785,
+    "dummy_test": {
+      "accuracy": 0.4194,
+      "precision_macro": 0.1398,
+      "recall_macro": 0.3333,
+      "macro_f1": 0.197
+    },
+    "confusion_matrix_labels": [
+      "negativo",
+      "neutral",
+      "positivo"
+    ],
+    "confusion_matrix": [
+      [
+        41,
+        0,
+        0
+      ],
+      [
+        0,
+        52,
+        0
+      ],
+      [
+        2,
+        0,
+        29
+      ]
+    ],
+    "per_class_report": {
+      "negativo": {
+        "precision": 0.9534883720930233,
+        "recall": 1.0,
+        "f1-score": 0.9761904761904762,
+        "support": 41.0
+      },
+      "neutral": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 52.0
+      },
+      "positivo": {
+        "precision": 1.0,
+        "recall": 0.9354838709677419,
+        "f1-score": 0.9666666666666667,
+        "support": 31.0
+      },
+      "accuracy": 0.9838709677419355,
+      "macro avg": {
+        "precision": 0.9844961240310077,
+        "recall": 0.978494623655914,
+        "f1-score": 0.980952380952381,
+        "support": 124.0
+      },
+      "weighted avg": {
+        "precision": 0.9846211552888222,
+        "recall": 0.9838709677419355,
+        "f1-score": 0.9837941628264208,
+        "support": 124.0
+      }
+    },
+    "contrastive_breakdown": {
+      "False": {
+        "accuracy": 1.0,
+        "n": 15
+      },
+      "True": {
+        "accuracy": 0.9817,
+        "n": 109
+      }
+    }
+  },
+  "comparacion_linea_base_cv": [
+    {
+      "vectorizador": "TF-IDF palabras (1-2)",
+      "modelo": "Linear SVM",
+      "accuracy_cv": 0.998,
+      "macro_f1_cv": 0.9978,
+      "std_macro_f1": 0.0044
+    },
+    {
+      "vectorizador": "TF-IDF caracteres (2-5)",
+      "modelo": "Linear SVM",
+      "accuracy_cv": 0.998,
+      "macro_f1_cv": 0.9978,
+      "std_macro_f1": 0.0044
+    },
+    {
+      "vectorizador": "TF-IDF palabras (1-2)",
+      "modelo": "Random Forest",
+      "accuracy_cv": 0.998,
+      "macro_f1_cv": 0.9976,
+      "std_macro_f1": 0.0049
+    },
+    {
+      "vectorizador": "TF-IDF caracteres (2-5)",
+      "modelo": "Random Forest",
+      "accuracy_cv": 0.998,
+      "macro_f1_cv": 0.9976,
+      "std_macro_f1": 0.0049
+    },
+    {
+      "vectorizador": "TF-IDF palabras (1-2)",
+      "modelo": "Logistic Regression",
+      "accuracy_cv": 0.9899,
+      "macro_f1_cv": 0.9905,
+      "std_macro_f1": 0.01
+    },
+    {
+      "vectorizador": "TF-IDF caracteres (2-5)",
+      "modelo": "Logistic Regression",
+      "accuracy_cv": 0.9858,
+      "macro_f1_cv": 0.9869,
+      "std_macro_f1": 0.0091
+    },
+    {
+      "vectorizador": "TF-IDF palabras (1-2)",
+      "modelo": "Naive Bayes",
+      "accuracy_cv": 0.9231,
+      "macro_f1_cv": 0.929,
+      "std_macro_f1": 0.0113
+    },
+    {
+      "vectorizador": "TF-IDF caracteres (2-5)",
+      "modelo": "Naive Bayes",
+      "accuracy_cv": 0.8947,
+      "macro_f1_cv": 0.9016,
+      "std_macro_f1": 0.0191
+    },
+    {
+      "vectorizador": "TF-IDF palabras (1-2)",
+      "modelo": "Dummy (mayoritaria)",
+      "accuracy_cv": 0.417,
+      "macro_f1_cv": 0.1962,
+      "std_macro_f1": 0.0019
+    },
+    {
+      "vectorizador": "TF-IDF caracteres (2-5)",
+      "modelo": "Dummy (mayoritaria)",
+      "accuracy_cv": 0.417,
+      "macro_f1_cv": 0.1962,
+      "std_macro_f1": 0.0019
+    }
+  ],
+  "resumen_gridsearch_cv": [
+    {
+      "modelo": "LinearSVC",
+      "vectorizador": "caracteres",
+      "mejor_macro_f1_cv": 0.9978,
+      "n_configs": 4
+    },
+    {
+      "modelo": "LinearSVC",
+      "vectorizador": "palabras",
+      "mejor_macro_f1_cv": 0.9978,
+      "n_configs": 16
+    },
+    {
+      "modelo": "LogisticRegression",
+      "vectorizador": "caracteres",
+      "mejor_macro_f1_cv": 0.9978,
+      "n_configs": 3
+    },
+    {
+      "modelo": "RandomForestClassifier",
+      "vectorizador": "caracteres",
+      "mejor_macro_f1_cv": 0.9976,
+      "n_configs": 4
+    },
+    {
+      "modelo": "RandomForestClassifier",
+      "vectorizador": "palabras",
+      "mejor_macro_f1_cv": 0.9976,
+      "n_configs": 16
+    },
+    {
+      "modelo": "LogisticRegression",
+      "vectorizador": "palabras",
+      "mejor_macro_f1_cv": 0.996,
+      "n_configs": 12
+    }
+  ],
+  "auditoria_data_leakage": {
+    "exact_overlap_train_test": 0,
+    "mean_max_cosine_sim": 0.7633,
+    "max_cosine_sim": 1.0,
+    "high_similarity_gt_0_90": 11
+  },
+  "dataset": {
+    "dataset_version": "1.0.0",
+    "dataset_sha256": "fe8bab9e356fa0bd40e629675315eaeb955aaf40adda0d9cf43f4e64384bc1c6",
+    "source_mode": "synthetic_parcial_replica",
+    "source_files": [
+      "synthetic_replica_from_Informe_Parcial_SisInt.pdf"
+    ],
+    "processed_path": "data\\processed\\feedback_preprocesado_etiquetado.csv",
+    "generated_at_utc": "2026-11-20T19:35:58.196027+00:00",
+    "n_rows": 618,
+    "class_distribution": {
+      "neutral": 258,
+      "negativo": 205,
+      "positivo": 155
+    },
+    "class_proportions": {
+      "neutral": 0.4175,
+      "negativo": 0.3317,
+      "positivo": 0.2508
+    },
+    "contrastive_ratio": 0.8317,
+    "courses": [
+      "Arquitectura del computador",
+      "Bases de datos",
+      "Fundamentos de programación",
+      "Programacion paralela",
+      "Sistemas Inteligentes",
+      "Sistemas distribuidos",
+      "Sistemas operativos"
+    ]
+  },
+  "referencia_parcial_pdf": {
+    "source": "Informe_Parcial_SisInt.pdf & Parcial_SI_corregido.ipynb",
+    "best_model": "LinearSVC (class_weight='balanced', C=0.05) + CalibratedClassifierCV(cv=5)",
+    "best_vectorizer": "TfidfVectorizer(analyzer='word', ngram_range=(1, 1), min_df=2, sublinear_tf=True)",
+    "n_total": 618,
+    "n_train": 494,
+    "n_test": 124,
+    "macro_f1_cv_train": 0.6163,
+    "macro_f1_test": 0.6411,
+    "accuracy_test": 0.6452,
+    "dummy_macro_f1_test": 0.197,
+    "dummy_accuracy_test": 0.419
+  },
+  "versiones": {
+    "python": "3.11.4",
+    "scikit-learn": "1.7.2",
+    "joblib": "1.6.0",
+    "pandas": "3.0.6",
+    "numpy": "2.4.6",
+    "scipy": "1.17.1",
+    "emoji": "2.16.0",
+    "fastapi": null,
+    "pydantic": "2.14.4",
+    "streamlit": null
+  },
+  "model_version": "v1.0.0",
+  "registered_at_utc": "2026-11-20T19:36:45.789412+00:00",
+  "artifact_filename": "modelo_polaridad.joblib",
+  "artifact_sha256": "31c8f9360020d8e5f2cdec1637c8cd5befd34360de655afde67fa3390f22523b",
+  "artifact_size_bytes": 71296,
+  "notes": "Entrenamiento reproducible basado en el trabajo parcial"
+}

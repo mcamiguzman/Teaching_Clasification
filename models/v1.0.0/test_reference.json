@@ -1,0 +1,1004 @@
+{
+  "model_version": "v1.0.0",
+  "n_test": 124,
+  "X_test": [
+    "En Sistemas distribuidos el docente mostró excelente disponibilidad, respondió correos rápido y resolvió todas las dudas, pero el material de clase y las diapositivas estaban desordenados, incompletos y sin ejemplos claros. (2023-2) Eso marcó bastante mi desempeño en el semestre.",
+    "El curso tiene aspectos rescatables y otros por ajustar, los parciales y talleres fueron justos, coherentes y alineados con lo visto en clase, aunque la metodología del docente fue aburrida, repetitiva y confusa al explicar los temas.",
+    "Al inicio la materia de Arquitectura del computador parecía compleja, pero las diapositivas y guías de clase estuvieron completas, ordenadas y fáciles de repasar y además el ritmo de la materia fue adecuado y el nivel de exigencia resultó motivador y gratificante. (2023-1) Eso marcó bastante mi desempeño en el semestre.",
+    "Hay puntos buenos y aspectos mejorables, en Arquitectura del computador la retroalimentación se entregó en los plazos habituales de la facultad, pero la comunicación con el profesor por correo y en clase fue normal. (2023-2) En resumen así percibí el curso.",
+    "Súper buen curso 😀, el contenido del curso fue excelente, actualizado y muy pertinente para ingeniería, aunque la comunicación con el profesor por correo y en clase fue normal.",
+    "En Sistemas distribuidos el profesor explica de forma clara, dinámica y con ejemplos prácticos muy útiles, pero los contenidos resultaron desactualizados, dispersos y poco aplicables a la práctica. (2023-2) En resumen así percibí el curso.",
+    "En términos generales el curso estuvo aceptable, el docente mostró excelente disponibilidad, respondió correos rápido y resolvió todas las dudas, aunque el ritmo fue demasiado rápido y la carga académica resultó excesiva y frustrante. (2023-2) Vale la pena revisarlo para el próximo periodo.",
+    "Súper buen curso 😀, la organización del cronograma y el manejo del horario fueron impecables, aunque el ritmo de avance fue moderado con semanas tranquilas y otras más exigentes. (2024-1) Eso marcó bastante mi desempeño en el semestre.",
+    "Al inicio la materia de Sistemas Inteligentes parecía compleja, pero los recursos del aula digital y los laboratorios funcionaron de maravilla y además el contenido del curso fue excelente, actualizado y muy pertinente para ingeniería.",
+    "En Arquitectura del computador el profesor explica de forma clara, dinámica y con ejemplos prácticos muy útiles, pero la respuesta a los correos fue tardía y casi nunca hubo disponibilidad para resolver dudas.",
+    "La experiencia durante el semestre fue regular, el ritmo de la materia fue adecuado y el nivel de exigencia resultó motivador y gratificante, aunque la metodología del docente fue aburrida, repetitiva y confusa al explicar los temas. (2023-2) Es un punto importante a tener en cuenta.",
+    "Mi percepción de la asignatura es intermedia, la organización del cronograma y el manejo del horario fueron impecables, pero la retroalimentación de las calificaciones tardó demasiado y no explicó en qué fallamos. (2024-1) Espero que sigan fortaleciendo la asignatura.",
+    "En términos generales el curso estuvo aceptable, en Bases de datos la retroalimentación se entregó en los plazos habituales de la facultad, aunque la comunicación con el profesor por correo y en clase fue normal. (2024-1) Creo que esto ayuda a mejorar futuras cohortes.",
+    "La experiencia durante el semestre fue regular, en Arquitectura del computador la retroalimentación se entregó en los plazos habituales de la facultad, pero el ritmo de avance fue moderado con semanas tranquilas y otras más exigentes. (2023-1) Vale la pena revisarlo para el próximo periodo.",
+    "En Bases de datos el docente mostró excelente disponibilidad, respondió correos rápido y resolvió todas las dudas, pero los contenidos resultaron desactualizados, dispersos y poco aplicables a la práctica. (2024-1) En resumen así percibí el curso.",
+    "En Sistemas operativos el ritmo de la materia fue adecuado y el nivel de exigencia resultó motivador y gratificante, sin embargo el material de clase y las diapositivas estaban desordenados, incompletos y sin ejemplos claros. 😠",
+    "Hay puntos buenos y aspectos mejorables, los parciales y talleres fueron justos, coherentes y alineados con lo visto en clase, aunque el ritmo fue demasiado rápido y la carga académica resultó excesiva y frustrante. (2023-2) Espero que sigan fortaleciendo la asignatura.",
+    "La experiencia durante el semestre fue regular, en Programacion paralela el horario y la planeación del curso se mantuvieron estables durante el semestre, pero la retroalimentación se entregó en los plazos habituales de la facultad. (2024-1) Es un punto importante a tener en cuenta.",
+    "En Programacion paralela el ritmo de la materia fue adecuado y el nivel de exigencia resultó motivador y gratificante, pero los contenidos resultaron desactualizados, dispersos y poco aplicables a la práctica. (2023-2) Espero que sigan fortaleciendo la asignatura.",
+    "Lamentablemente mi experiencia en el curso no fue buena, el material de clase y las diapositivas estaban desordenados, incompletos y sin ejemplos claros, aunque el profesor explica de forma clara, dinámica y con ejemplos prácticos muy útiles. (2023-2) Eso marcó bastante mi desempeño en el semestre.",
+    "Mi percepción de la asignatura es intermedia, en Bases de datos el horario y la planeación del curso se mantuvieron estables durante el semestre, no obstante el ritmo de avance fue moderado con semanas tranquilas y otras más exigentes. (2023-2) En resumen así percibí el curso.",
+    "En Bases de datos las diapositivas y guías de clase estuvieron completas, ordenadas y fáciles de repasar, sin embargo la organización del curso fue caótica y el horario no alcanzó para cubrir los temas. (2023-2) Eso marcó bastante mi desempeño en el semestre.",
+    "La experiencia durante el semestre fue regular, en Fundamentos de programación las diapositivas sirvieron de apoyo general, aunque algunos ejemplos podrían ampliarse y el ritmo de avance fue moderado con semanas tranquilas y otras más exigentes.",
+    "En Fundamentos de programación los parciales y talleres fueron justos, coherentes y alineados con lo visto en clase, sin embargo la retroalimentación de las calificaciones tardó demasiado y no explicó en qué fallamos. (2024-1) En resumen así percibí el curso.",
+    "El curso tiene aspectos rescatables y otros por ajustar, el docente mostró excelente disponibilidad, respondió correos rápido y resolvió todas las dudas, no obstante la retroalimentación de las calificaciones tardó demasiado y no explicó en qué fallamos. (2024-1) Espero que sigan fortaleciendo la asignatura.",
+    "Fue una experiencia súper enriquecedora, los parciales y talleres fueron justos, coherentes y alineados con lo visto en clase, aunque el ritmo de avance fue moderado con semanas tranquilas y otras más exigentes. (2023-1) Es un punto importante a tener en cuenta.",
+    "En balance general considero el curso normal, el contenido del curso fue excelente, actualizado y muy pertinente para ingeniería, pero las preguntas de los parciales fueron confusas, demasiado largas y desconectadas de clase. (2024-1) Es un punto importante a tener en cuenta.",
+    "Hay puntos buenos y aspectos mejorables, en Sistemas distribuidos el contenido cumplió con el programa esperado aunque podría actualizarse un poco y la retroalimentación se entregó en los plazos habituales de la facultad. (2023-1) Eso marcó bastante mi desempeño en el semestre.",
+    "Me gustó mucho la dinámica académica, la retroalimentación sobre los exámenes fue oportuna, detallada y constructiva, aunque el contenido cumplió con el programa esperado aunque podría actualizarse un poco. 😊 (2023-2) Vale la pena revisarlo para el próximo periodo.",
+    "En Sistemas operativos los recursos del aula digital y los laboratorios funcionaron de maravilla, sin embargo la respuesta a los correos fue tardía y casi nunca hubo disponibilidad para resolver dudas. (2024-1) En resumen así percibí el curso.",
+    "El curso tiene aspectos rescatables y otros por ajustar, el docente mostró excelente disponibilidad, respondió correos rápido y resolvió todas las dudas, no obstante el aula digital tuvo fallas frecuentes y faltaron recursos en el laboratorio virtual. (2023-1) En resumen así percibí el curso.",
+    "Al inicio la materia de Programacion paralela parecía compleja, pero el contenido del curso fue excelente, actualizado y muy pertinente para ingeniería y además la organización del cronograma y el manejo del horario fueron impecables.",
+    "Hay puntos buenos y aspectos mejorables, los parciales y talleres fueron justos, coherentes y alineados con lo visto en clase, no obstante la organización del curso fue caótica y el horario no alcanzó para cubrir los temas. (2023-1) Eso marcó bastante mi desempeño en el semestre.",
+    "En balance general considero el curso normal, en Arquitectura del computador el contenido cumplió con el programa esperado aunque podría actualizarse un poco, no obstante las diapositivas sirvieron de apoyo general, aunque algunos ejemplos podrían ampliarse.",
+    "En general quedé muy satisfecho con la asignatura, la organización del cronograma y el manejo del horario fueron impecables, aunque la retroalimentación se entregó en los plazos habituales de la facultad. (2023-2) Vale la pena revisarlo para el próximo periodo.",
+    "En Programacion paralela la retroalimentación sobre los exámenes fue oportuna, detallada y constructiva, pero la metodología del docente fue aburrida, repetitiva y confusa al explicar los temas. 😠",
+    "Hay puntos buenos y aspectos mejorables, en Bases de datos las diapositivas sirvieron de apoyo general, aunque algunos ejemplos podrían ampliarse y los recursos en el aula digital fueron suficientes para entregar las actividades.",
+    "El contenido fue bastante interesante, aunque algunas partes pudieron haber sido más detalladas para facilitar comprensión.",
+    "El curso tiene aspectos rescatables y otros por ajustar, en Bases de datos el horario y la planeación del curso se mantuvieron estables durante el semestre y los parciales tuvieron una dificultad promedio acorde con los temas vistos.",
+    "En Sistemas operativos las diapositivas y guías de clase estuvieron completas, ordenadas y fáciles de repasar, pero la organización del curso fue caótica y el horario no alcanzó para cubrir los temas. (2024-1) En resumen así percibí el curso.",
+    "El curso tiene aspectos rescatables y otros por ajustar, los parciales y talleres fueron justos, coherentes y alineados con lo visto en clase, aunque el ritmo fue demasiado rápido y la carga académica resultó excesiva y frustrante.",
+    "Desafortunadamente, mi opinión general del curso no fue muy animada y tuve momentos de miedo ante la dificultad. Sin embargo, hubo un aspecto positivo: la organización del cronograma.",
+    "Recomiendo totalmente esta materia, las diapositivas y guías de clase estuvieron completas, ordenadas y fáciles de repasar, aunque la comunicación con el profesor por correo y en clase fue normal. (2023-1) Eso marcó bastante mi desempeño en el semestre.",
+    "En Sistemas distribuidos la retroalimentación sobre los exámenes fue oportuna, detallada y constructiva, sin embargo el ritmo fue demasiado rápido y la carga académica resultó excesiva y frustrante. (2024-1) Eso marcó bastante mi desempeño en el semestre.",
+    "En balance general considero el curso normal, en Programacion paralela los recursos en el aula digital fueron suficientes para entregar las actividades y el ritmo de avance fue moderado con semanas tranquilas y otras más exigentes.",
+    "Al inicio la materia de Arquitectura del computador parecía compleja, pero la retroalimentación sobre los exámenes fue oportuna, detallada y constructiva y además las diapositivas y guías de clase estuvieron completas, ordenadas y fáciles de repasar.",
+    "Fue una experiencia súper enriquecedora, los parciales y talleres fueron justos, coherentes y alineados con lo visto en clase, aunque las diapositivas sirvieron de apoyo general, aunque algunos ejemplos podrían ampliarse. (2023-2) En resumen así percibí el curso.",
+    "Al inicio la materia de Sistemas distribuidos parecía compleja, pero los recursos del aula digital y los laboratorios funcionaron de maravilla y además la retroalimentación sobre los exámenes fue oportuna, detallada y constructiva.",
+    "Me sentí bastante frustrado durante el semestre, en Programacion paralela la respuesta a los correos fue tardía y casi nunca hubo disponibilidad para resolver dudas y además las preguntas de los parciales fueron confusas, demasiado largas y desconectadas de clase.",
+    "Hay puntos buenos y aspectos mejorables, en Sistemas distribuidos el ritmo de avance fue moderado con semanas tranquilas y otras más exigentes, no obstante los parciales tuvieron una dificultad promedio acorde con los temas vistos. (2024-1) Espero que sigan fortaleciendo la asignatura.",
+    "Excelente semestre en este curso, en Bases de datos los parciales y talleres fueron justos, coherentes y alineados con lo visto en clase y los recursos del aula digital y los laboratorios funcionaron de maravilla.",
+    "Pésima experiencia en varios momentos 😞, en Bases de datos los contenidos resultaron desactualizados, dispersos y poco aplicables a la práctica y además la respuesta a los correos fue tardía y casi nunca hubo disponibilidad para resolver dudas. (2023-1) Eso marcó bastante mi desempeño en el semestre.",
+    "Al inicio la materia de Sistemas Inteligentes parecía compleja, pero los recursos del aula digital y los laboratorios funcionaron de maravilla y además las diapositivas y guías de clase estuvieron completas, ordenadas y fáciles de repasar. (2023-2) Creo que esto ayuda a mejorar futuras cohortes.",
+    "Desafortunadamente el curso dejó mucho que desear, en Sistemas distribuidos el ritmo fue demasiado rápido y la carga académica resultó excesiva y frustrante y además el material de clase y las diapositivas estaban desordenados, incompletos y sin ejemplos claros.",
+    "Pésima experiencia en varios momentos 😞, el aula digital tuvo fallas frecuentes y faltaron recursos en el laboratorio virtual, aunque las diapositivas y guías de clase estuvieron completas, ordenadas y fáciles de repasar. (2023-2) Creo que esto ayuda a mejorar futuras cohortes.",
+    "Me sentí bastante frustrado durante el semestre, en Sistemas Inteligentes los contenidos resultaron desactualizados, dispersos y poco aplicables a la práctica y además las preguntas de los parciales fueron confusas, demasiado largas y desconectadas de clase. (2023-2) Es un punto importante a tener en cuenta.",
+    "Lamentablemente mi experiencia en el curso no fue buena, en Fundamentos de programación el ritmo fue demasiado rápido y la carga académica resultó excesiva y frustrante y además la organización del curso fue caótica y el horario no alcanzó para cubrir los temas.",
+    "En Sistemas operativos el ritmo de la materia fue adecuado y el nivel de exigencia resultó motivador y gratificante, sin embargo la organización del curso fue caótica y el horario no alcanzó para cubrir los temas. (2023-2) En resumen así percibí el curso.",
+    "Excelente semestre en este curso, el ritmo de la materia fue adecuado y el nivel de exigencia resultó motivador y gratificante, aunque las diapositivas sirvieron de apoyo general, aunque algunos ejemplos podrían ampliarse. (2023-1) Eso marcó bastante mi desempeño en el semestre.",
+    "El curso tiene aspectos rescatables y otros por ajustar, en Programacion paralela los recursos en el aula digital fueron suficientes para entregar las actividades y la metodología de clase fue estándar y cumplió con los objetivos básicos del semestre. (2024-2) Eso marcó bastante mi desempeño en el semestre.",
+    "Hay puntos buenos y aspectos mejorables, en Sistemas operativos la metodología de clase fue estándar y cumplió con los objetivos básicos del semestre y el ritmo de avance fue moderado con semanas tranquilas y otras más exigentes. (2023-2) Espero que sigan fortaleciendo la asignatura.",
+    "En Fundamentos de programación la organización del cronograma y el manejo del horario fueron impecables, sin embargo la respuesta a los correos fue tardía y casi nunca hubo disponibilidad para resolver dudas. (2023-1) Espero que sigan fortaleciendo la asignatura.",
+    "La experiencia durante el semestre fue regular, en Sistemas operativos la comunicación con el profesor por correo y en clase fue normal, aunque los parciales tuvieron una dificultad promedio acorde con los temas vistos. (2024-1) Espero que sigan fortaleciendo la asignatura.",
+    "En balance general considero el curso normal, en Fundamentos de programación la retroalimentación se entregó en los plazos habituales de la facultad, aunque los recursos en el aula digital fueron suficientes para entregar las actividades.",
+    "En Programacion paralela los recursos del aula digital y los laboratorios funcionaron de maravilla, sin embargo la retroalimentación de las calificaciones tardó demasiado y no explicó en qué fallamos. (2024-1) Vale la pena revisarlo para el próximo periodo.",
+    "Excelente semestre en este curso, las diapositivas y guías de clase estuvieron completas, ordenadas y fáciles de repasar, aunque la metodología de clase fue estándar y cumplió con los objetivos básicos del semestre.",
+    "En Programacion paralela la retroalimentación sobre los exámenes fue oportuna, detallada y constructiva, pero la metodología del docente fue aburrida, repetitiva y confusa al explicar los temas. (2024-1) Es un punto importante a tener en cuenta.",
+    "Mi percepción de la asignatura es intermedia, los parciales y talleres fueron justos, coherentes y alineados con lo visto en clase, sin embargo el ritmo fue demasiado rápido y la carga académica resultó excesiva y frustrante.",
+    "En balance general considero el curso normal, en Sistemas operativos la metodología de clase fue estándar y cumplió con los objetivos básicos del semestre, aunque el contenido cumplió con el programa esperado aunque podría actualizarse un poco.",
+    "Al inicio la materia de Sistemas operativos parecía compleja, pero la retroalimentación sobre los exámenes fue oportuna, detallada y constructiva y además la organización del cronograma y el manejo del horario fueron impecables. (2023-2) En resumen así percibí el curso.",
+    "En balance general considero el curso normal, en Bases de datos las diapositivas sirvieron de apoyo general, aunque algunos ejemplos podrían ampliarse, sin embargo el ritmo de avance fue moderado con semanas tranquilas y otras más exigentes.",
+    "Al inicio la materia de Sistemas operativos parecía compleja, pero la retroalimentación sobre los exámenes fue oportuna, detallada y constructiva y además los parciales y talleres fueron justos, coherentes y alineados con lo visto en clase. (2023-2) Espero que sigan fortaleciendo la asignatura.",
+    "La experiencia durante el semestre fue regular, en Sistemas distribuidos el ritmo de avance fue moderado con semanas tranquilas y otras más exigentes, sin embargo la retroalimentación se entregó en los plazos habituales de la facultad. (2024-1) Creo que esto ayuda a mejorar futuras cohortes.",
+    "En Bases de datos los recursos del aula digital y los laboratorios funcionaron de maravilla, pero el ritmo fue demasiado rápido y la carga académica resultó excesiva y frustrante.",
+    "Súper buen curso 😀, la retroalimentación sobre los exámenes fue oportuna, detallada y constructiva, aunque la comunicación con el profesor por correo y en clase fue normal. (2024-1) Creo que esto ayuda a mejorar futuras cohortes.",
+    "El curso tiene aspectos rescatables y otros por ajustar, el contenido del curso fue excelente, actualizado y muy pertinente para ingeniería, aunque la retroalimentación de las calificaciones tardó demasiado y no explicó en qué fallamos. (2023-2) Espero que sigan fortaleciendo la asignatura.",
+    "Mi percepción de la asignatura es intermedia, en Sistemas operativos el contenido cumplió con el programa esperado aunque podría actualizarse un poco, aunque el ritmo de avance fue moderado con semanas tranquilas y otras más exigentes.",
+    "En balance general considero el curso normal, en Sistemas distribuidos la retroalimentación se entregó en los plazos habituales de la facultad, sin embargo el contenido cumplió con el programa esperado aunque podría actualizarse un poco.",
+    "En balance general considero el curso normal, en Sistemas Inteligentes el contenido cumplió con el programa esperado aunque podría actualizarse un poco, pero la comunicación con el profesor por correo y en clase fue normal. (2024-2) Creo que esto ayuda a mejorar futuras cohortes.",
+    "Hay puntos buenos y aspectos mejorables, en Sistemas Inteligentes el horario y la planeación del curso se mantuvieron estables durante el semestre, sin embargo la retroalimentación se entregó en los plazos habituales de la facultad.",
+    "En balance general considero el curso normal, las diapositivas y guías de clase estuvieron completas, ordenadas y fáciles de repasar, pero el ritmo fue demasiado rápido y la carga académica resultó excesiva y frustrante. (2024-2) Espero que sigan fortaleciendo la asignatura.",
+    "En Sistemas operativos el contenido del curso fue excelente, actualizado y muy pertinente para ingeniería, pero las preguntas de los parciales fueron confusas, demasiado largas y desconectadas de clase.",
+    "Pésima experiencia en varios momentos 😞, los contenidos resultaron desactualizados, dispersos y poco aplicables a la práctica, aunque los parciales y talleres fueron justos, coherentes y alineados con lo visto en clase.",
+    "Al inicio la materia de Sistemas operativos parecía compleja, pero la organización del cronograma y el manejo del horario fueron impecables y además las diapositivas y guías de clase estuvieron completas, ordenadas y fáciles de repasar.",
+    "En Fundamentos de programación el ritmo de la materia fue adecuado y el nivel de exigencia resultó motivador y gratificante, sin embargo la metodología del docente fue aburrida, repetitiva y confusa al explicar los temas.",
+    "Me gustó mucho la dinámica académica, los parciales y talleres fueron justos, coherentes y alineados con lo visto en clase, aunque la comunicación con el profesor por correo y en clase fue normal. (2024-1) Es un punto importante a tener en cuenta.",
+    "Al inicio la materia de Sistemas operativos parecía compleja, pero el profesor explica de forma clara, dinámica y con ejemplos prácticos muy útiles y además las diapositivas y guías de clase estuvieron completas, ordenadas y fáciles de repasar. (2023-2) Eso marcó bastante mi desempeño en el semestre.",
+    "El curso tiene aspectos rescatables y otros por ajustar, la retroalimentación sobre los exámenes fue oportuna, detallada y constructiva, pero la organización del curso fue caótica y el horario no alcanzó para cubrir los temas.",
+    "En Sistemas operativos el contenido del curso fue excelente, actualizado y muy pertinente para ingeniería, sin embargo las preguntas de los parciales fueron confusas, demasiado largas y desconectadas de clase.",
+    "Me sentí bastante frustrado durante el semestre, la organización del curso fue caótica y el horario no alcanzó para cubrir los temas, aunque las diapositivas y guías de clase estuvieron completas, ordenadas y fáciles de repasar.",
+    "En términos generales el curso estuvo aceptable, la retroalimentación sobre los exámenes fue oportuna, detallada y constructiva, aunque la organización del curso fue caótica y el horario no alcanzó para cubrir los temas. (2024-1) Es un punto importante a tener en cuenta.",
+    "En Fundamentos de programación los parciales y talleres fueron justos, coherentes y alineados con lo visto en clase, pero la retroalimentación de las calificaciones tardó demasiado y no explicó en qué fallamos.",
+    "El curso tiene aspectos rescatables y otros por ajustar, en Sistemas operativos la retroalimentación se entregó en los plazos habituales de la facultad, pero el horario y la planeación del curso se mantuvieron estables durante el semestre. (2023-2) En resumen así percibí el curso.",
+    "En Sistemas operativos la organización del cronograma y el manejo del horario fueron impecables, sin embargo el ritmo fue demasiado rápido y la carga académica resultó excesiva y frustrante. (2023-2) En resumen así percibí el curso.",
+    "Me sentí bastante frustrado durante el semestre, en Fundamentos de programación el material de clase y las diapositivas estaban desordenados, incompletos y sin ejemplos claros y además el aula digital tuvo fallas frecuentes y faltaron recursos en el laboratorio virtual. (2023-2) Es un punto importante a tener en cuenta.",
+    "Mi percepción de la asignatura es intermedia, en Sistemas operativos el horario y la planeación del curso se mantuvieron estables durante el semestre, aunque el contenido cumplió con el programa esperado aunque podría actualizarse un poco. (2023-2) Es un punto importante a tener en cuenta.",
+    "Recomiendo totalmente esta materia, en Programacion paralela la retroalimentación sobre los exámenes fue oportuna, detallada y constructiva y los recursos del aula digital y los laboratorios funcionaron de maravilla. (2023-2) Creo que esto ayuda a mejorar futuras cohortes.",
+    "Pésima experiencia en varios momentos 😞, la respuesta a los correos fue tardía y casi nunca hubo disponibilidad para resolver dudas, aunque el profesor explica de forma clara, dinámica y con ejemplos prácticos muy útiles.",
+    "Considero que la asignatura necesita mejoras urgentes, la retroalimentación de las calificaciones tardó demasiado y no explicó en qué fallamos, aunque el contenido del curso fue excelente, actualizado y muy pertinente para ingeniería. (2024-1) Espero que sigan fortaleciendo la asignatura.",
+    "Hay puntos buenos y aspectos mejorables, el ritmo de la materia fue adecuado y el nivel de exigencia resultó motivador y gratificante, aunque las preguntas de los parciales fueron confusas, demasiado largas y desconectadas de clase. (2023-2) Creo que esto ayuda a mejorar futuras cohortes.",
+    "El horario fue justo, no me dejó demasiado tiempo libre. Los parciales fueron desafiantes pero gratificantes.",
+    "En balance general considero el curso normal, la retroalimentación sobre los exámenes fue oportuna, detallada y constructiva, aunque la metodología del docente fue aburrida, repetitiva y confusa al explicar los temas. (2023-1) Vale la pena revisarlo para el próximo periodo.",
+    "En términos generales el curso estuvo aceptable, el ritmo de la materia fue adecuado y el nivel de exigencia resultó motivador y gratificante, aunque los contenidos resultaron desactualizados, dispersos y poco aplicables a la práctica.",
+    "Hay puntos buenos y aspectos mejorables, en Arquitectura del computador el ritmo de avance fue moderado con semanas tranquilas y otras más exigentes, aunque el horario y la planeación del curso se mantuvieron estables durante el semestre. (2024-1) Vale la pena revisarlo para el próximo periodo.",
+    "Me gustó mucho la dinámica académica, el contenido del curso fue exceleenteee, actualizado y muuuy pertinente para ingeniería, aunque la comunicación con el profesor por correo y en clase fue normal. (2023-1) Es un punto importante a tener en cuenta.",
+    "Al inicio la materia de Arquitectura del computador parecía compleja, pero la organización del cronograma y el manejo del horario fueron impecables y además el ritmo de la materia fue adecuado y el nivel de exigencia resultó motivador y gratificante.",
+    "El curso tiene aspectos rescatables y otros por ajustar, en Fundamentos de programación el ritmo de avance fue moderado con semanas tranquilas y otras más exigentes, no obstante los recursos en el aula digital fueron suficientes para entregar las actividades. (2024-2) En resumen así percibí el curso.",
+    "El curso tiene aspectos rescatables y otros por ajustar, las diapositivas y guías de clase estuvieron completas, ordenadas y fáciles de repasar, sin embargo la metodología del docente fue aburrida, repetitiva y confusa al explicar los temas.",
+    "Hay puntos buenos y aspectos mejorables, el contenido del curso fue excelente, actualizado y muy pertinente para ingeniería, no obstante el material de clase y las diapositivas estaban desordenados, incompletos y sin ejemplos claros. (2024-1) Vale la pena revisarlo para el próximo periodo.",
+    "Excelente semestre en este curso, el docente mostró exceleenteee disponibilidad, respondió correos rápido y resolvió todas las dudas, aunque la retroalimentación se entregó en los plazos habituales de la facultad. (2024-2) Es un punto importante a tener en cuenta.",
+    "Considero que la asignatura necesita mejoras urgentes, la retroalimentación de las calificaciones tardó demasiado y no explicó en qué fallamos, aunque los recursos del aula digital y los laboratorios funcionaron de maravilla.",
+    "Excelente semestre en este curso, en Programacion paralela las diapositivas y guías de clase estuvieron completas, ordenadas y fáciles de repasar y el contenido del curso fue excelente, actualizado y muy pertinente para ingeniería. (2023-2) Espero que sigan fortaleciendo la asignatura.",
+    "Lamentablemente mi experiencia en el curso no fue buena, el ritmo fue demasiado rápido y la carga académica resultó excesiva y frustrante, aunque el contenido del curso fue excelente, actualizado y muy pertinente para ingeniería.",
+    "Súper buen curso 😀, en Arquitectura del computador el profesor explica de forma clara, dinámica y con ejemplos prácticos muy útiles y el docente mostró excelente disponibilidad, respondió correos rápido y resolvió todas las dudas.",
+    "En balance general considero el curso normal, el docente mostró excelente disponibilidad, respondió correos rápido y resolvió todas las dudas, sin embargo las preguntas de los parciales fueron confusas, demasiado largas y desconectadas de clase. (2023-1) Es un punto importante a tener en cuenta.",
+    "En balance general considero el curso normal, los parciales y talleres fueron justos, coherentes y alineados con lo visto en clase, sin embargo el material de clase y las diapositivas estaban desordenados, incompletos y sin ejemplos claros.",
+    "En balance general considero el curso normal, en Arquitectura del computador el horario y la planeación del curso se mantuvieron estables durante el semestre y los parciales tuvieron una dificultad promedio acorde con los temas vistos. (2023-2) En resumen así percibí el curso.",
+    "Mi opinión general es negativa, la retroalimentación de las calificaciones tardó demasiado y no explicó en qué fallamos, aunque los parciales y talleres fueron justos, coherentes y alineados con lo visto en clase. (2023-2) En resumen así percibí el curso.",
+    "Mi percepción de la asignatura es intermedia, en Sistemas Inteligentes las diapositivas sirvieron de apoyo general, aunque algunos ejemplos podrían ampliarse, no obstante la comunicación con el profesor por correo y en clase fue normal. (2024-1) Es un punto importante a tener en cuenta.",
+    "En Sistemas distribuidos los recursos del aula digital y los laboratorios funcionaron de maravilla, pero los contenidos resultaron desactualizados, dispersos y poco aplicables a la práctica.",
+    "En Sistemas Inteligentes el docente mostró excelente disponibilidad, respondió correos rápido y resolvió todas las dudas, pero la retroalimentación de las calificaciones tardó demasiado y no explicó en qué fallamos. (2023-1) En resumen así percibí el curso.",
+    "Fue una experiencia súper enriquecedora, la retroalimentación sobre los exámenes fue oportuna, detallada y constructiva, aunque el contenido cumplió con el programa esperado aunque podría actualizarse un poco. (2023-1) Creo que esto ayuda a mejorar futuras cohortes.",
+    "En balance general considero el curso normal, las diapositivas y guías de clase estuvieron completas, ordenadas y fáciles de repasar, pero la respuesta a los correos fue tardía y casi nunca hubo disponibilidad para resolver dudas. (2024-1) En resumen así percibí el curso.",
+    "En Sistemas distribuidos los parciales y talleres fueron justos, coherentes y alineados con lo visto en clase, sin embargo el aula digital tuvo fallas frecuentes y faltaron recursos en el laboratorio virtual. (2023-1) Eso marcó bastante mi desempeño en el semestre."
+  ],
+  "y_test": [
+    "negativo",
+    "neutral",
+    "positivo",
+    "neutral",
+    "positivo",
+    "negativo",
+    "neutral",
+    "positivo",
+    "positivo",
+    "negativo",
+    "neutral",
+    "neutral",
+    "neutral",
+    "neutral",
+    "negativo",
+    "negativo",
+    "neutral",
+    "neutral",
+    "negativo",
+    "negativo",
+    "neutral",
+    "negativo",
+    "neutral",
+    "negativo",
+    "neutral",
+    "positivo",
+    "neutral",
+    "neutral",
+    "positivo",
+    "negativo",
+    "neutral",
+    "positivo",
+    "neutral",
+    "neutral",
+    "positivo",
+    "negativo",
+    "neutral",
+    "positivo",
+    "neutral",
+    "negativo",
+    "neutral",
+    "negativo",
+    "positivo",
+    "negativo",
+    "neutral",
+    "positivo",
+    "positivo",
+    "positivo",
+    "negativo",
+    "neutral",
+    "positivo",
+    "negativo",
+    "positivo",
+    "negativo",
+    "negativo",
+    "negativo",
+    "negativo",
+    "negativo",
+    "positivo",
+    "neutral",
+    "neutral",
+    "negativo",
+    "neutral",
+    "neutral",
+    "negativo",
+    "positivo",
+    "negativo",
+    "neutral",
+    "neutral",
+    "positivo",
+    "neutral",
+    "positivo",
+    "neutral",
+    "negativo",
+    "positivo",
+    "neutral",
+    "neutral",
+    "neutral",
+    "neutral",
+    "neutral",
+    "neutral",
+    "negativo",
+    "negativo",
+    "positivo",
+    "negativo",
+    "positivo",
+    "positivo",
+    "neutral",
+    "negativo",
+    "negativo",
+    "neutral",
+    "negativo",
+    "neutral",
+    "negativo",
+    "negativo",
+    "neutral",
+    "positivo",
+    "negativo",
+    "negativo",
+    "neutral",
+    "positivo",
+    "neutral",
+    "neutral",
+    "neutral",
+    "positivo",
+    "positivo",
+    "neutral",
+    "neutral",
+    "neutral",
+    "positivo",
+    "negativo",
+    "positivo",
+    "negativo",
+    "positivo",
+    "neutral",
+    "neutral",
+    "neutral",
+    "negativo",
+    "neutral",
+    "negativo",
+    "negativo",
+    "positivo",
+    "neutral",
+    "negativo"
+  ],
+  "y_pred_expected": [
+    "negativo",
+    "neutral",
+    "positivo",
+    "neutral",
+    "positivo",
+    "negativo",
+    "neutral",
+    "positivo",
+    "positivo",
+    "negativo",
+    "neutral",
+    "neutral",
+    "neutral",
+    "neutral",
+    "negativo",
+    "negativo",
+    "neutral",
+    "neutral",
+    "negativo",
+    "negativo",
+    "neutral",
+    "negativo",
+    "neutral",
+    "negativo",
+    "neutral",
+    "positivo",
+    "neutral",
+    "neutral",
+    "positivo",
+    "negativo",
+    "neutral",
+    "positivo",
+    "neutral",
+    "neutral",
+    "positivo",
+    "negativo",
+    "neutral",
+    "negativo",
+    "neutral",
+    "negativo",
+    "neutral",
+    "negativo",
+    "positivo",
+    "negativo",
+    "neutral",
+    "positivo",
+    "positivo",
+    "positivo",
+    "negativo",
+    "neutral",
+    "positivo",
+    "negativo",
+    "positivo",
+    "negativo",
+    "negativo",
+    "negativo",
+    "negativo",
+    "negativo",
+    "positivo",
+    "neutral",
+    "neutral",
+    "negativo",
+    "neutral",
+    "neutral",
+    "negativo",
+    "positivo",
+    "negativo",
+    "neutral",
+    "neutral",
+    "positivo",
+    "neutral",
+    "positivo",
+    "neutral",
+    "negativo",
+    "positivo",
+    "neutral",
+    "neutral",
+    "neutral",
+    "neutral",
+    "neutral",
+    "neutral",
+    "negativo",
+    "negativo",
+    "positivo",
+    "negativo",
+    "positivo",
+    "positivo",
+    "neutral",
+    "negativo",
+    "negativo",
+    "neutral",
+    "negativo",
+    "neutral",
+    "negativo",
+    "negativo",
+    "neutral",
+    "positivo",
+    "negativo",
+    "negativo",
+    "neutral",
+    "negativo",
+    "neutral",
+    "neutral",
+    "neutral",
+    "positivo",
+    "positivo",
+    "neutral",
+    "neutral",
+    "neutral",
+    "positivo",
+    "negativo",
+    "positivo",
+    "negativo",
+    "positivo",
+    "neutral",
+    "neutral",
+    "neutral",
+    "negativo",
+    "neutral",
+    "negativo",
+    "negativo",
+    "positivo",
+    "neutral",
+    "negativo"
+  ],
+  "y_proba_expected": [
+    [
+      0.960385,
+      0.016304,
+      0.023311
+    ],
+    [
+      0.024486,
+      0.948442,
+      0.027072
+    ],
+    [
+      0.014518,
+      0.009611,
+      0.97587
+    ],
+    [
+      0.008535,
+      0.977633,
+      0.013832
+    ],
+    [
+      0.004446,
+      0.023887,
+      0.971667
+    ],
+    [
+      0.959864,
+      0.016904,
+      0.023231
+    ],
+    [
+      0.075418,
+      0.897513,
+      0.027069
+    ],
+    [
+      0.014664,
+      0.04212,
+      0.943217
+    ],
+    [
+      0.005091,
+      0.007247,
+      0.987662
+    ],
+    [
+      0.973337,
+      0.010703,
+      0.015959
+    ],
+    [
+      0.030893,
+      0.93202,
+      0.037088
+    ],
+    [
+      0.066815,
+      0.921174,
+      0.012011
+    ],
+    [
+      0.008877,
+      0.967727,
+      0.023396
+    ],
+    [
+      0.01747,
+      0.963749,
+      0.018781
+    ],
+    [
+      0.962434,
+      0.017085,
+      0.020481
+    ],
+    [
+      0.952226,
+      0.025948,
+      0.021826
+    ],
+    [
+      0.035991,
+      0.932502,
+      0.031508
+    ],
+    [
+      0.007119,
+      0.972978,
+      0.019903
+    ],
+    [
+      0.944707,
+      0.021335,
+      0.033958
+    ],
+    [
+      0.970211,
+      0.01061,
+      0.019178
+    ],
+    [
+      0.003645,
+      0.979191,
+      0.017164
+    ],
+    [
+      0.951225,
+      0.030643,
+      0.018132
+    ],
+    [
+      0.003785,
+      0.975013,
+      0.021202
+    ],
+    [
+      0.946734,
+      0.033784,
+      0.019482
+    ],
+    [
+      0.015318,
+      0.971,
+      0.013681
+    ],
+    [
+      0.017471,
+      0.020628,
+      0.9619
+    ],
+    [
+      0.023111,
+      0.96164,
+      0.015249
+    ],
+    [
+      0.00609,
+      0.97668,
+      0.01723
+    ],
+    [
+      0.017244,
+      0.015353,
+      0.967403
+    ],
+    [
+      0.952184,
+      0.03415,
+      0.013666
+    ],
+    [
+      0.0104,
+      0.976132,
+      0.013468
+    ],
+    [
+      0.005692,
+      0.009075,
+      0.985233
+    ],
+    [
+      0.026742,
+      0.957612,
+      0.015646
+    ],
+    [
+      0.007942,
+      0.978768,
+      0.013289
+    ],
+    [
+      0.012096,
+      0.022936,
+      0.964968
+    ],
+    [
+      0.975809,
+      0.008902,
+      0.015288
+    ],
+    [
+      0.015202,
+      0.971862,
+      0.012936
+    ],
+    [
+      0.580644,
+      0.122514,
+      0.296842
+    ],
+    [
+      0.003734,
+      0.982351,
+      0.013915
+    ],
+    [
+      0.944506,
+      0.029067,
+      0.026427
+    ],
+    [
+      0.022045,
+      0.950264,
+      0.02769
+    ],
+    [
+      0.924598,
+      0.041769,
+      0.033633
+    ],
+    [
+      0.008355,
+      0.024001,
+      0.967644
+    ],
+    [
+      0.944388,
+      0.037079,
+      0.018534
+    ],
+    [
+      0.003933,
+      0.980186,
+      0.015881
+    ],
+    [
+      0.014716,
+      0.004391,
+      0.980893
+    ],
+    [
+      0.023538,
+      0.015327,
+      0.961136
+    ],
+    [
+      0.009305,
+      0.004063,
+      0.986632
+    ],
+    [
+      0.986702,
+      0.012766,
+      0.000532
+    ],
+    [
+      0.004574,
+      0.978107,
+      0.017319
+    ],
+    [
+      0.03819,
+      0.001725,
+      0.960085
+    ],
+    [
+      0.989549,
+      0.009988,
+      0.000463
+    ],
+    [
+      0.006734,
+      0.015323,
+      0.977943
+    ],
+    [
+      0.993783,
+      0.005791,
+      0.000426
+    ],
+    [
+      0.943514,
+      0.033093,
+      0.023392
+    ],
+    [
+      0.983699,
+      0.015648,
+      0.000653
+    ],
+    [
+      0.986631,
+      0.01292,
+      0.000449
+    ],
+    [
+      0.926525,
+      0.046237,
+      0.027238
+    ],
+    [
+      0.012611,
+      0.02414,
+      0.963249
+    ],
+    [
+      0.004113,
+      0.975327,
+      0.02056
+    ],
+    [
+      0.003796,
+      0.973809,
+      0.022396
+    ],
+    [
+      0.928381,
+      0.056225,
+      0.015394
+    ],
+    [
+      0.010495,
+      0.964534,
+      0.024971
+    ],
+    [
+      0.00486,
+      0.981388,
+      0.013752
+    ],
+    [
+      0.935265,
+      0.048815,
+      0.01592
+    ],
+    [
+      0.005317,
+      0.029145,
+      0.965537
+    ],
+    [
+      0.95504,
+      0.022445,
+      0.022515
+    ],
+    [
+      0.029999,
+      0.958318,
+      0.011684
+    ],
+    [
+      0.006195,
+      0.975217,
+      0.018588
+    ],
+    [
+      0.013767,
+      0.006275,
+      0.979957
+    ],
+    [
+      0.012925,
+      0.974831,
+      0.012244
+    ],
+    [
+      0.018734,
+      0.004418,
+      0.976848
+    ],
+    [
+      0.010233,
+      0.977757,
+      0.012009
+    ],
+    [
+      0.956835,
+      0.021545,
+      0.02162
+    ],
+    [
+      0.011799,
+      0.030749,
+      0.957452
+    ],
+    [
+      0.014832,
+      0.965839,
+      0.019329
+    ],
+    [
+      0.003246,
+      0.974804,
+      0.021949
+    ],
+    [
+      0.004103,
+      0.986073,
+      0.009824
+    ],
+    [
+      0.007271,
+      0.974413,
+      0.018316
+    ],
+    [
+      0.004569,
+      0.987399,
+      0.008032
+    ],
+    [
+      0.044329,
+      0.937494,
+      0.018178
+    ],
+    [
+      0.95197,
+      0.02953,
+      0.0185
+    ],
+    [
+      0.973021,
+      0.007092,
+      0.019887
+    ],
+    [
+      0.00593,
+      0.007926,
+      0.986144
+    ],
+    [
+      0.923256,
+      0.053464,
+      0.02328
+    ],
+    [
+      0.008143,
+      0.018232,
+      0.973625
+    ],
+    [
+      0.011566,
+      0.009922,
+      0.978511
+    ],
+    [
+      0.05306,
+      0.938313,
+      0.008627
+    ],
+    [
+      0.92887,
+      0.056189,
+      0.014941
+    ],
+    [
+      0.956826,
+      0.018575,
+      0.024599
+    ],
+    [
+      0.048496,
+      0.925664,
+      0.02584
+    ],
+    [
+      0.960187,
+      0.018827,
+      0.020986
+    ],
+    [
+      0.003148,
+      0.980255,
+      0.016597
+    ],
+    [
+      0.928425,
+      0.052002,
+      0.019573
+    ],
+    [
+      0.977544,
+      0.021633,
+      0.000823
+    ],
+    [
+      0.003259,
+      0.973537,
+      0.023204
+    ],
+    [
+      0.026938,
+      0.004041,
+      0.969021
+    ],
+    [
+      0.971013,
+      0.008386,
+      0.020601
+    ],
+    [
+      0.956678,
+      0.019115,
+      0.024207
+    ],
+    [
+      0.022908,
+      0.945267,
+      0.031825
+    ],
+    [
+      0.926687,
+      0.051438,
+      0.021875
+    ],
+    [
+      0.073658,
+      0.906592,
+      0.01975
+    ],
+    [
+      0.027231,
+      0.943996,
+      0.028773
+    ],
+    [
+      0.009929,
+      0.969454,
+      0.020617
+    ],
+    [
+      0.004583,
+      0.027791,
+      0.967626
+    ],
+    [
+      0.012819,
+      0.006901,
+      0.98028
+    ],
+    [
+      0.002316,
+      0.982965,
+      0.014719
+    ],
+    [
+      0.019155,
+      0.971806,
+      0.009039
+    ],
+    [
+      0.040248,
+      0.950312,
+      0.00944
+    ],
+    [
+      0.010664,
+      0.035446,
+      0.953891
+    ],
+    [
+      0.968375,
+      0.016193,
+      0.015432
+    ],
+    [
+      0.012919,
+      0.006567,
+      0.980513
+    ],
+    [
+      0.967396,
+      0.016896,
+      0.015709
+    ],
+    [
+      0.114366,
+      0.001162,
+      0.884473
+    ],
+    [
+      0.061189,
+      0.928603,
+      0.010208
+    ],
+    [
+      0.08101,
+      0.909211,
+      0.009779
+    ],
+    [
+      0.011973,
+      0.970107,
+      0.01792
+    ],
+    [
+      0.953529,
+      0.014826,
+      0.031645
+    ],
+    [
+      0.001553,
+      0.975382,
+      0.023065
+    ],
+    [
+      0.962159,
+      0.020441,
+      0.017401
+    ],
+    [
+      0.961687,
+      0.019592,
+      0.01872
+    ],
+    [
+      0.016703,
+      0.033658,
+      0.949638
+    ],
+    [
+      0.084312,
+      0.903621,
+      0.012067
+    ],
+    [
+      0.916049,
+      0.060619,
+      0.023332
+    ]
+  ]
+}
